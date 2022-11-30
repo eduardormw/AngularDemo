@@ -1,0 +1,114 @@
+[
+  {
+    "CaseNumber": 21523452,
+    "Subject": "Search doesn't work",
+    "Type": "Corporate Actions",
+    "Status": 0,
+    "Date": "2021-07-20"
+  },
+  {
+    "CaseNumber": 21548472,
+    "Subject": "Eduardo needs vacations",
+    "Type": "GeneralQuery",
+    "Status": 2,
+    "Date": "2021-04-16"
+  },
+  {
+    "CaseNumber": 21523452,
+    "Subject": "Confirmation CREST Securities",
+    "Type": "Fund Data",
+    "Status": 2,
+    "Date": "2022-08-03"
+  },
+  {
+    "CaseNumber": 5433452,
+    "Subject": "New MyEuroclear App",
+    "Type": "Newsletters",
+    "Status": 0,
+    "Date": "2021-07-20"
+  },
+  {
+    "CaseNumber": 98563452,
+    "Subject": "I can't register...",
+    "Type": "Prospect client",
+    "Status": 0,
+    "Date": "2021-07-20"
+  },
+  {
+    "CaseNumber": 21535354,
+    "Subject": "Switch Euroclear token",
+    "Type": "Switch order",
+    "Status": 0,
+    "Date": "2021-07-20"
+  },
+  {
+    "CaseNumber": 21234567,
+    "Subject": "Euroclear and MFEX",
+    "Type": "Switch Order",
+    "Status": 3,
+    "Date": "2022-01-17"
+  },
+  {
+    "CaseNumber": 12345678,
+    "Subject": "I have a question",
+    "Type": "GeneralQuery",
+    "Status": 0,
+    "Date": "2022-11-13"
+  },
+  {
+    "CaseNumber": 21523452,
+    "Subject": "Search doesn't work",
+    "Type": "Corporate Actions",
+    "Status": 0,
+    "Date": "2021-07-20"
+  },
+  {
+    "CaseNumber": 21548472,
+    "Subject": "Eduardo needs vacations",
+    "Type": "GeneralQuery",
+    "Status": 2,
+    "Date": "2021-04-16"
+  },
+  {
+    "CaseNumber": 21523452,
+    "Subject": "Confirmation CREST Securities",
+    "Type": "Fund Data",
+    "Status": 2,
+    "Date": "2022-08-03"
+  },
+  {
+    "CaseNumber": 5433452,
+    "Subject": "New MyEuroclear App",
+    "Type": "Newsletters",
+    "Status": 0,
+    "Date": "2021-07-20"
+  },
+  {
+    "CaseNumber": 98563452,
+    "Subject": "I can't register...",
+    "Type": "Prospect client",
+    "Status": 0,
+    "Date": "2021-07-20"
+  },
+  {
+    "CaseNumber": 21535354,
+    "Subject": "Switch Euroclear token",
+    "Type": "Switch order",
+    "Status": 0,
+    "Date": "2021-07-20"
+  },
+  {
+    "CaseNumber": 21234567,
+    "Subject": "Euroclear and MFEX",
+    "Type": "Switch Order",
+    "Status": 3,
+    "Date": "2022-01-17"
+  },
+  {
+    "CaseNumber": 12345678,
+    "Subject": "I have a question",
+    "Type": "GeneralQuery",
+    "Status": 0,
+    "Date": "2022-11-13"
+  }
+]
