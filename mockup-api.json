@@ -1,0 +1,173 @@
+[
+  {
+    "CaseNumber": 21523452,
+    "Subject": "Search doesn't work",
+    "Type": "Corporate Actions",
+    "Status": 0,
+    "Date": "2021-07-20",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 2,
+    "Comments": [{
+        "User": "Françoise Gay",
+        "Comment": "This is a comment",
+        "Date": "2021-08-20"
+      }, 
+      {
+        "User": "Ivan Clever",
+        "Comment": "Not a comment!",
+        "Date": "2021-07-21",
+        "Attachment": "https://www.bestfin.com/en.html/"
+      }, 
+      {
+        "User": "Ivan Clever",
+        "Comment": "New comment!",
+        "Date": "2021-07-21"
+      }]
+  },
+  {
+    "CaseNumber": 21548472,
+    "Subject": "Eduardo needs vacations",
+    "Type": "GeneralQuery",
+    "Status": 2,
+    "Date": "2021-04-16",
+    "ContactName": "eduardo.silva@bestfin.com",
+    "Priority": 0,
+    "Comments": [{
+        "User": "Eduardo",
+        "Comment": "This is a comment",
+        "Date": "2021-07-20"
+      }, 
+      {
+        "User": "Ivan",
+        "Comment": "Not a comment!",
+        "Date": "2021-07-21",
+        "Attachment": "https://www.bestfin.com/en.html/"
+      }]
+  },
+  {
+    "CaseNumber": 21523452,
+    "Subject": "Confirmation CREST Securities",
+    "Type": "Fund Data",
+    "Status": 2,
+    "Date": "2022-08-03",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 2
+  },
+  {
+    "CaseNumber": 5433452,
+    "Subject": "New Mybestfin App",
+    "Type": "Newsletters",
+    "Status": 0,
+    "Date": "2021-07-20",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 3
+  },
+  {
+    "CaseNumber": 98563452,
+    "Subject": "I can't register...",
+    "Type": "Prospect client",
+    "Status": 0,
+    "Date": "2021-07-20",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 0
+  },
+  {
+    "CaseNumber": 21535354,
+    "Subject": "Switch bestfin token",
+    "Type": "Switch order",
+    "Status": 0,
+    "Date": "2021-07-20",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 0
+  },
+  {
+    "CaseNumber": 21234567,
+    "Subject": "bestfin and MFEX",
+    "Type": "Switch Order",
+    "Status": 3,
+    "Date": "2022-01-17",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 2
+  },
+  {
+    "CaseNumber": 12345678,
+    "Subject": "I have a question",
+    "Type": "GeneralQuery",
+    "Status": 0,
+    "Date": "2022-11-13",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 0
+  },
+  {
+    "CaseNumber": 21523452,
+    "Subject": "Search doesn't work",
+    "Type": "Corporate Actions",
+    "Status": 0,
+    "Date": "2021-07-20",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 1
+  },
+  {
+    "CaseNumber": 21548472,
+    "Subject": "Eduardo needs vacations",
+    "Type": "GeneralQuery",
+    "Status": 2,
+    "Date": "2021-04-16",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 0
+  },
+  {
+    "CaseNumber": 21523452,
+    "Subject": "Confirmation CREST Securities",
+    "Type": "Fund Data",
+    "Status": 2,
+    "Date": "2022-08-03",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 1
+  },
+  {
+    "CaseNumber": 5433452,
+    "Subject": "New Mybestfin App",
+    "Type": "Newsletters",
+    "Status": 0,
+    "Date": "2021-07-20",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 3
+  },
+  {
+    "CaseNumber": 98563452,
+    "Subject": "I can't register...",
+    "Type": "Prospect client",
+    "Status": 0,
+    "Date": "2021-07-20",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 2
+  },
+  {
+    "CaseNumber": 21535354,
+    "Subject": "Switch bestfin token",
+    "Type": "Switch order",
+    "Status": 0,
+    "Date": "2021-07-20",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 0
+  },
+  {
+    "CaseNumber": 21234567,
+    "Subject": "bestfin and MFEX",
+    "Type": "Switch Order",
+    "Status": 3,
+    "Date": "2022-01-17",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 1
+  },
+  {
+    "CaseNumber": 12345678,
+    "Subject": "I have a question",
+    "Type": "GeneralQuery",
+    "Status": 0,
+    "Date": "2022-11-13",
+    "ContactName": "ivan.clever@bestfin.com",
+    "Priority": 1
+  }
+]
